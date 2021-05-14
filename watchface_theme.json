@@ -1,0 +1,69 @@
+{
+  "dial": {
+    "enable": true,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "label": [
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%H:%M",
+      "font_color": "#000000",
+      "align": "center",
+      "font_size": 32,
+      "x_offset": 75,
+      "y_offset": 205,
+      "x_size": 94,
+      "y_size": 32
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%b",
+      "font_color": "#000000",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 190,
+      "y_offset": 187,
+      "x_size": 46,
+      "y_size": 30
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%d",
+      "font_color": "#000000",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 190,
+      "y_offset": 136,
+      "x_size": 46,
+      "y_size": 30
+    },
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "label": "%d%%",
+      "font_color": "#000000",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 191,
+      "y_offset": 86,
+      "x_size": 46,
+      "y_size": 30
+    },
+    {
+      "enable": true,
+      "type": "steps",
+      "label": "%d",
+      "font_color": "#000000",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 03,
+      "y_offset": 86,
+      "x_size": 46,
+      "y_size": 30
+    }
+  ]
+}
